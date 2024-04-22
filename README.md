@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XDflight (Qirui Da / Ridge), a rising-freshman studying CS & EE at the School of Computer Science of Carnegie Mellon University, previously a high-school student from Beijing National Day School International Department. 
+- 👋 Hi, I’m @XDflight (Qirui Da / Ridge), a rising-freshman studying CS & EE at the School of Computer Science at Carnegie Mellon University, previously a high-school student from Beijing National Day School International Department. 
 - 👀 I’m interested in a lot of stuff, especially something about underlying development - things that are really fundamental but extremely important.
 - 🌱 I’m currently doing stuff related to FPGA & ASIC. 
 - 💞️ I’m looking to collaborate on projects which involve both hardwares and softwares. 
